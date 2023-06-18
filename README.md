@@ -1,4 +1,4 @@
-# Desafio-DIO-Calculadora-de-Progamador
+# Desafio-DIO-Calculadora-de-Programador
  Formação C/C++ Developer - Calculadora de Progamador. Neste projeto o objetivo é desenvolver uma calculadora em linguagem C++.
  
 Neste projeto o objetivo é desenvolver uma calculadora em linguagem C++, seguindo todos os conceitos e técnicas apresentadas no módulo 3.
